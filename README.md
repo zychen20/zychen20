@@ -1,4 +1,4 @@
-### Coding Stats
+### Coding Stats over the Last 7 Days
 
 <!--START_SECTION:waka-->
 
