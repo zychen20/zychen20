@@ -1,5 +1,5 @@
 # About Me
 
-A halfway programmer specialized in frontend development.
+A halfway developer specialized in frontend development.
 
-My Observable Profile: https://observablehq.com/@zychen
+My Observable: https://observablehq.com/@zychen
